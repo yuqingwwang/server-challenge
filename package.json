@@ -10,7 +10,7 @@
     "test:5": "node test/5.test.js"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "eslint": "^8.22.0",
